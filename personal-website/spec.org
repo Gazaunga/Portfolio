@@ -1,0 +1,7 @@
+;; SPEC
+
+* Sidebar
+-photo of me
+-google maps location
+-fontawesome or material design icons
+-phone

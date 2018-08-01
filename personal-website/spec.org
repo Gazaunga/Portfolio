@@ -4,7 +4,7 @@
 #+DESCRIPTION: spec doc for my personal website
 #+KEYWORDS: personal, project, portfolio
 
-* Sidebar
+** Sidebar
 -photo of me
 -google maps location
 -fontawesome or material design icons

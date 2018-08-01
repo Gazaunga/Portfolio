@@ -1,0 +1,13 @@
+In Brisco make sure that the margin is on the left side
+-use side notes to create sidebar
+
+/! NAV BEGIN HERE
+nav id="slide-menu"
+  ul
+    li class="timeline"
+      a href="/" Home
+    li class="events"
+      a href="about"
+/ NAV END HERE
+
+div class="menu-trigger"

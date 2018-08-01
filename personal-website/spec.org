@@ -1,4 +1,8 @@
-;; SPEC
+#+TITLE: Spec
+#+AUTHOR: J. M. Ottley
+#+DATE: 2018-08-01
+#+DESCRIPTION: spec doc for my personal website
+#+KEYWORDS: personal, project, portfolio
 
 * Sidebar
 -photo of me
